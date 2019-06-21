@@ -8,7 +8,7 @@ const fetchVideoInfo = require('youtube-info');
 
 const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";// لاتغيره <<
 const prefix = '#'; // prefix
-const discord_token = "NDUwNDMwODg4Njg2MjU2MTQx.DezH-Q.57TNbNkiunPdNcDY9Ha7in5ndpQ";
+const discord_token = "NTkxNjI1MDQ3MzEyMTcxMDMw.XQzf1Q.1qTUYz06ZgFiAQcgxCFqp0l92Yg";
 client.login(discord_token);
 /*
 ////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\
